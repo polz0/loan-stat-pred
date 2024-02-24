@@ -8,7 +8,7 @@ Predict status of loan application given 11 variables. Dataset from kaggle: http
 ```
 git clone git@github.com:polz0/loan-stat-pred.git --depth 1
 ```
-2a. Install and launch JupyterLab with:
+2. Install and launch JupyterLab with:
 ```
 pip install jupyterlab
 jupyter lab
